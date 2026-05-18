@@ -1,0 +1,186 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Acana"
+    },
+    {
+      "id": 2,
+      "name": "Orijen"
+    },
+    {
+      "id": 3,
+      "name": "Boreal"
+    }
+  ],
+
+  "products": [
+    {
+      "id": "ACA1001",
+      "brandId": 1,
+      "productName": "Acana Adult Dog Food",
+      "graphicName": "acanaadult.jpg",
+      "costPrice": 54.99,
+      "msrp": 74.99,
+      "qtyOnHand": 20,
+      "qtyOnBackOrder": 5,
+      "description": "Premium Canadian-made dry dog food crafted with fresh regional ingredients and quality protein sources."
+    },
+    {
+      "id": "ACA1002",
+      "brandId": 1,
+      "productName": "Acana Puppy Recipe",
+      "graphicName": "acanapuppy.jpg",
+      "costPrice": 49.99,
+      "msrp": 69.99,
+      "qtyOnHand": 15,
+      "qtyOnBackOrder": 2,
+      "description": "Nutritious puppy food designed to support healthy growth using fresh meat and wholesome ingredients."
+    },
+    {
+      "id": "ACA1003",
+      "brandId": 1,
+      "productName": "Acana Senior Recipe",
+      "graphicName": "acanasenior.jpg",
+      "costPrice": 57.99,
+      "msrp": 79.99,
+      "qtyOnHand": 10,
+      "qtyOnBackOrder": 1,
+      "description": "Balanced senior dog formula made with quality protein to help maintain healthy weight and mobility."
+    },
+    {
+      "id": "ACA1004",
+      "brandId": 1,
+      "productName": "Acana Small Breed Recipe",
+      "graphicName": "acanasmallbreed.jpg",
+      "costPrice": 45.99,
+      "msrp": 65.99,
+      "qtyOnHand": 18,
+      "qtyOnBackOrder": 3,
+      "description": "Specially crafted dog food for small breeds with nutrient-rich ingredients and smaller kibble pieces."
+    },
+    {
+      "id": "ACA1005",
+      "brandId": 1,
+      "productName": "Acana Sport & Agility",
+      "graphicName": "acanasport.jpg",
+      "costPrice": 61.99,
+      "msrp": 84.99,
+      "qtyOnHand": 12,
+      "qtyOnBackOrder": 4,
+      "description": "High-protein dog food formulated for active dogs requiring long-lasting energy and muscle support."
+    },
+
+    {
+      "id": "ORI2001",
+      "brandId": 2,
+      "productName": "Orijen Original Dog Food",
+      "graphicName": "orijenoriginal.jpg",
+      "costPrice": 64.99,
+      "msrp": 89.99,
+      "qtyOnHand": 12,
+      "qtyOnBackOrder": 4,
+      "description": "Biologically appropriate dog food made with fresh poultry, fish, and locally sourced ingredients."
+    },
+    {
+      "id": "ORI2002",
+      "brandId": 2,
+      "productName": "Orijen Six Fish Recipe",
+      "graphicName": "orijensixfish.jpg",
+      "costPrice": 68.99,
+      "msrp": 92.99,
+      "qtyOnHand": 9,
+      "qtyOnBackOrder": 2,
+      "description": "Protein-rich dog food featuring six different fish ingredients to support healthy skin and coat."
+    },
+    {
+      "id": "ORI2003",
+      "brandId": 2,
+      "productName": "Orijen Regional Red",
+      "graphicName": "orijenregionalred.jpg",
+      "costPrice": 72.99,
+      "msrp": 96.99,
+      "qtyOnHand": 8,
+      "qtyOnBackOrder": 1,
+      "description": "Premium red meat dog food packed with ranch-raised beef, wild boar, and lamb ingredients."
+    },
+    {
+      "id": "ORI2004",
+      "brandId": 2,
+      "productName": "Orijen Puppy Large Breed",
+      "graphicName": "orijenlargepuppy.jpg",
+      "costPrice": 66.99,
+      "msrp": 91.99,
+      "qtyOnHand": 11,
+      "qtyOnBackOrder": 3,
+      "description": "Large breed puppy formula developed to support healthy bone development and balanced growth."
+    },
+    {
+      "id": "ORI2005",
+      "brandId": 2,
+      "productName": "Orijen Fit & Trim",
+      "graphicName": "orijenfittrim.jpg",
+      "costPrice": 63.99,
+      "msrp": 87.99,
+      "qtyOnHand": 14,
+      "qtyOnBackOrder": 2,
+      "description": "Lean dog food recipe designed to help overweight dogs maintain healthy body weight and energy."
+    },
+
+    {
+      "id": "BOR3001",
+      "brandId": 3,
+      "productName": "Boreal Proper Chicken Formula",
+      "graphicName": "borealchicken.jpg",
+      "costPrice": 42.99,
+      "msrp": 59.99,
+      "qtyOnHand": 20,
+      "qtyOnBackOrder": 2,
+      "description": "Canadian grain-free chicken dog food formulated to provide balanced nutrition and healthy digestion."
+    },
+    {
+      "id": "BOR3002",
+      "brandId": 3,
+      "productName": "Boreal Proper Fish Formula",
+      "graphicName": "borealfish.jpg",
+      "costPrice": 44.99,
+      "msrp": 61.99,
+      "qtyOnHand": 17,
+      "qtyOnBackOrder": 3,
+      "description": "Fish-based dog food recipe rich in omega fatty acids to support skin and coat health naturally."
+    },
+    {
+      "id": "BOR3003",
+      "brandId": 3,
+      "productName": "Boreal Puppy Chicken Recipe",
+      "graphicName": "borealpuppy.jpg",
+      "costPrice": 41.99,
+      "msrp": 57.99,
+      "qtyOnHand": 13,
+      "qtyOnBackOrder": 1,
+      "description": "Healthy puppy formula made with fresh chicken ingredients to support strong growth and development."
+    },
+    {
+      "id": "BOR3004",
+      "brandId": 3,
+      "productName": "Boreal Grain Free Red Meat",
+      "graphicName": "borealredmeat.jpg",
+      "costPrice": 46.99,
+      "msrp": 64.99,
+      "qtyOnHand": 9,
+      "qtyOnBackOrder": 2,
+      "description": "High-protein red meat dog food crafted without grains for sensitive stomachs and active dogs."
+    },
+    {
+      "id": "BOR3005",
+      "brandId": 3,
+      "productName": "Boreal Functional Senior Blend",
+      "graphicName": "borealsenior.jpg",
+      "costPrice": 43.99,
+      "msrp": 60.99,
+      "qtyOnHand": 15,
+      "qtyOnBackOrder": 2,
+      "description": "Senior dog food blend designed to support joint health, mobility, and healthy aging in older dogs."
+    }
+  ]
+}
